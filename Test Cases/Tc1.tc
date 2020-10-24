@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d834cf0-b6a5-474c-b918-8ba847b38938</testCaseGuid>
+   <variable>
+      <defaultValue>'online.hcmue.edu.vn'</defaultValue>
+      <description></description>
+      <id>2d2a24ef-f6a4-4a1a-923b-ae1df4c27f14</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'43.01.104.022'</defaultValue>
+      <description></description>
+      <id>7e762655-09c1-439c-b6af-ed72305a1d4f</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+   <variable>
+      <defaultValue>'J89r9gqKSwt1xVAUREGhIw=='</defaultValue>
+      <description></description>
+      <id>de73a85a-780d-4436-8e7a-d327f6b77bf7</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
